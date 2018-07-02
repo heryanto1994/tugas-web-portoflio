@@ -15,7 +15,7 @@ html{
 }     
 
 header{
-	background-image:url(Picture/bg-profile.jpg);
+	background-image:url(img/bg-profile.jpg);
 	background-size:cover;
 	background-position:center;
 	height: 50vh;
